@@ -1,0 +1,54 @@
+.body {
+  background-color: black;
+}
+
+.titulos {
+  background: black;
+}
+h1 {
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 3.5em;
+  color: orangered;
+  text-shadow: 2px 2px #0b3954;
+  background: black;
+}
+
+h2 {
+  text-align: center;
+  padding: 20px;
+  font-size: 2em;
+  color: rgb(236, 227, 223);
+  text-shadow: 1px 1px black;
+  background: #ff7b00;
+}
+
+.codew {
+  border-color: orangered;
+  text-align: justify;
+  font-size: 2em;
+  color: orangered;
+  text-shadow: 0.5px 0.5px oranged;
+  background: black;
+  background-color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  background-color: rgb(41, 36, 36);
+}
+
+.foot {
+  margin-top: 350px;
+  background-color: #ff7b00;
+  margin-bottom: 5px;
+}
+
+.copyright {
+  margin-top: 5px;
+  background-color: #087e8b;
+  color: #fff;
+}
