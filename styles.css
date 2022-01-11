@@ -16,6 +16,7 @@ h1 {
 
 h2 {
   text-align: center;
+  padding: 25px;
   font-size: 2em;
   color: rgb(236, 227, 223);
   text-shadow: 1px 1px black;
@@ -41,7 +42,7 @@ ul {
 }
 
 ul li {
-  background-color: rgb(41, 36, 36);
+  background-color: rgb(73, 69, 69);
 }
 
 .foot {
