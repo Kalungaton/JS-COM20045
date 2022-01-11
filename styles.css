@@ -24,10 +24,11 @@ h2 {
 
 .codew {
   border-color: orangered;
-  align-items: center;
   padding: 50px;
-  text-align: justify;
   font-size: 2vw;
+  width: auto;
+  align-items: center;
+  text-align: justify;
   color: orangered;
   text-shadow: 0.5px 0.5px oranged;
   background: black;
