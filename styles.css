@@ -24,7 +24,7 @@ h2 {
 
 .codew {
   border-color: orangered;
-  padding: 50px;
+  padding: 35px;
   font-size: 2vw;
   width: auto;
   align-items: center;
@@ -37,6 +37,9 @@ h2 {
 
 ul {
   list-style-type: none;
+  padding: 30px;
+  font-size: 2vw;
+  width: auto;
 }
 
 ul li {
