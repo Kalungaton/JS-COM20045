@@ -16,7 +16,6 @@ h1 {
 
 h2 {
   text-align: center;
-  padding: 20px;
   font-size: 2em;
   color: rgb(236, 227, 223);
   text-shadow: 1px 1px black;
@@ -25,8 +24,10 @@ h2 {
 
 .codew {
   border-color: orangered;
+  align-items: center;
+  padding: 50px;
   text-align: justify;
-  font-size: 2em;
+  font-size: 2vw;
   color: orangered;
   text-shadow: 0.5px 0.5px oranged;
   background: black;
